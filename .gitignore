@@ -1,0 +1,10 @@
+# nandukmelath .gitignore
+__pycache__/
+*.pyc
+.DS_Store
+.ipynb_checkpoints/
+*.pbix
+*.tmp
+.env
+.venv/
+venv/

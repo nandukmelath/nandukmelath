@@ -21,6 +21,9 @@ DP-700 certified. I build cloud-native data platforms for global banking and ass
 - **[pyspark-patterns](https://github.com/nandukmelath/pyspark-patterns)** — Production PySpark patterns I use daily in Fabric.
 - **[alteryx-to-fabric-migration-template](https://github.com/nandukmelath/alteryx-to-fabric-migration-template)** — Playbook + tool-by-tool mapping for migrating Alteryx workflows to Microsoft Fabric.
 
+### Open source
+- **[engram](https://github.com/nandukmelath/engram)** — Persistent memory for Claude Code, stored in your Obsidian vault: every session auto-archived, recent work recalled at startup, full history searchable. Node, zero-dependency, MIT.
+
 ### Certifications
 - Microsoft Certified: Fabric Data Engineer Associate (DP-700)
 - Microsoft Certified: Power BI Data Analyst Associate (PL-300)
